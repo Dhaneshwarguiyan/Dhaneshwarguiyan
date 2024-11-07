@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=swetagit186&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Dhaneshwarguiyan&&style=flat-square" align="center" />
 &nbsp;
 <!-- <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDhaneshwarguiyan&longCache=true" align="center" />
 &nbsp;
@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetagit186&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaneshwarguiyan&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -51,6 +51,6 @@
 
 <p align="center">
     <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/sweta-kumari-980136258/">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/dhaneshwarguiyan/">Let's connect and talk!</a>
     </b>
 </p>
